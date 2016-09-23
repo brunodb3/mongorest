@@ -1,0 +1,13 @@
+{
+  "license": "MIT",
+  "version": "1.0.0",
+  "main": "server.js",
+  "name": "mongo_rest",
+  "author": "Bruno Duarte Brito",
+  "description": "A simple MongoDB + Express RESTful API",
+  "dependencies": {
+    "express": "*",
+    "mongoose": "*",
+    "body-parser": "*"
+  }
+}
