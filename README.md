@@ -7,7 +7,6 @@ Consiste em:
   * [Projeto CRUD](https://github.com/brunodb3/mongorest)
 
 > Este projeto foi desenvolvido Bruno Duarte Brito mantendo em mente o código open-source.
-> Baseado no projeto [BlurAdmin](https://github.com/akveo/blur-admin) pelo usuário ```akveo``` do GitHub.
 
 ### Versão
 0.0.1
